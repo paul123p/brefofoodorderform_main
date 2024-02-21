@@ -1,0 +1,16 @@
+footer{
+    margin-top: 2rem;
+    background-color: rgb(4, 0, 18);
+    width: 100vw-10px;
+    height: 20vh;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between; /* Aligns children elements at the start and end of the container */
+    align-items: center; /* Vertically center the content */
+    color: #fff; 
+    border-radius: 2rem;
+}
+
+article{
+    margin: 0 auto;
+}

@@ -1,0 +1,23 @@
+header{
+  display: flex;
+  justify-content: space-between;
+}
+h1{
+  color: rgb(4, 0, 18);
+}
+
+li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+  color: rgb(158, 188, 255);
+  font-weight: bold;
+}
+
+ul{
+  margin-right: 2rem;
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+  margin-right: 1rem; 
+  justify-content: center;
+}
