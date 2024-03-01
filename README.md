@@ -4,7 +4,7 @@ This contains the source code of the SmartPass web app.
 Getting Started
 Clone this repository using the following command:
 
-git clone [https://github.com/Babatunde13/iu-portfolio-project.git](https://github.com/paul123p/brefofoodorderform_main.git)
+git clone (https://github.com/paul123p/brefofoodorderform_main.git)
 Running the Project
 To run this project locally, you need to have Node.js installed, ReactJS, Python. You also need to have Django installed and running on your machine.
 
